@@ -8,35 +8,20 @@ const items = [
   {
     id: 1,
     color: "from-red-300 to-blue-300",
-    title: "React Commerce",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/18073372/pexels-photo-18073372/free-photo-of-young-man-sitting-in-a-car-on-a-night-street.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    link: "https://lama.dev",
+    title: "Crypto Lolis",
+    desc: "Crypto Lolis is a comprehensive cryptocurrency tracking application that provides real-time news, rankings, prices, and market values of various cryptocurrencies. It also provides detailed information about each cryptocurrency. The application is built using React for the frontend, Redux for state management, and Ant Design library for UI components. It fetches data from a cryptocurrency API provided by RapidAPI.",
+    img: "https://raw.githubusercontent.com/NamousNassim/crypto_loli/master/screenshots/home.png",
+    link: "https://crypto-loli.netlify.app/",
   },
   {
     id: 2,
     color: "from-blue-300 to-violet-300",
-    title: "Next.js Medium Blog",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    link: "https://lama.dev",
+    title: "C++/Sfml game engine",
+    desc: "This game engine is designed to simplify game development with its modular structure and easy-to-use interface. Whether you're a beginner or an experienced developer, AwesomeGameEngine provides the tools you need to bring your game ideas to life. Features",
+    img: "https://camo.githubusercontent.com/9211458e19cb307cbc375eae3be519858cb0dc08beef9bcc01174c7644703a2e/68747470733a2f2f692e696d6775722e636f6d2f50374f456f75582e706e67",
+    link: "https://github.com/NamousNassim/cpp_game_engine",
   },
-  {
-    id: 3,
-    color: "from-violet-300 to-purple-300",
-    title: "Vanilla Book App",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/6894528/pexels-photo-6894528.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    link: "https://lama.dev",
-  },
-  {
-    id: 4,
-    color: "from-purple-300 to-red-300",
-    title: "Spotify Music App",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
-    img: "https://images.pexels.com/photos/18540208/pexels-photo-18540208/free-photo-of-wood-landscape-water-hill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    link: "https://lama.dev",
-  },
+
 ];
 
 const PortfolioPage = () => {
